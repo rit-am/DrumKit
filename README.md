@@ -70,6 +70,9 @@ The production output is written to `dist/`.
 
 The service worker is registered in production builds only. To test installation and offline behavior, serve the production build over localhost or HTTPS, install it from the browser, then disconnect the network and relaunch it.
 
+<img width="1654" height="823" alt="image" src="https://github.com/user-attachments/assets/ca800629-209b-4675-af97-e1bc0cac8081" />
+
+
 ## Tech
 
 TypeScript, HTML/CSS, Web Audio API, Vite, localStorage, and a service worker. The project is suitable for a future Tauri 2 wrapper.
